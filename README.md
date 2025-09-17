@@ -1,4 +1,4 @@
-# Healthcare-Monitoring-System-using-NodeMCU
+ # IoT-Based Remote Patient Vital Signs Monitor
 An Embedded system prototype for acquiring and remotely monitoring patient vitals including heart rate, blood oxygen saturation (SpO₂), and temperature. 
 
 An Embedded system prototype for acquiring and remotely monitoring patient vitals including heart rate, blood oxygen saturation (SpO₂), and temperature. This system demonstrates end-to-end IoT capabilities for telehealth applications.
